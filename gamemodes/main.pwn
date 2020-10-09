@@ -14,6 +14,7 @@
 		   Credits:
 				   Southclaws - sampctl
 				   Y_Less - YSI includes...
+				   bruxo00 - SAMPMailJS
 				   JustMichael - SKY & weapon-config
 				   pBlueG - MySQL
 				   urShadow - Pawn.CMD
