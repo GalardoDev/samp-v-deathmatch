@@ -7,5 +7,5 @@ This is my first gamemode I have done from scratch
 
 If you want to work on this gamemode,you have to get all includes that are used in gamemode.
 
-(links are in .pwn gamemode file)
+(links are in main.pwn file)
 
